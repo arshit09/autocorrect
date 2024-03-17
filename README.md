@@ -36,7 +36,7 @@ And millions more. Fixing them each time is quick but annoying.
 - Don't make it overly "smart" by replacing words based on sentence context, as that can be annoying. For example, auto correct we have on our phones.
 
 ### How can I contribute?
-- Go to the [Issues](https://github.com/arshit09/autocorrect/issues "Issues") tab of this project and create a 'New issue'. Choose appropriate labels like 'enhancement' or 'bug'.
+- Go to the [Issues](https://github.com/arshit09/autocorrect/issues "Issues") tab of this project and create a 'New issue'. Submit your typos or other improvements by choosing the appropriate label like 'enhancement' or 'bug' when creating a new issue.
 
 ### Want to learn more about AutoHotkey?
 - Explore the official website: [AutoHotkey.com](https://www.autohotkey.com/ "AutoHotkey.com")
