@@ -1058,6 +1058,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::auxillary::auxiliary
 ::auxilliary::auxiliary
 ::availablility::availability
+::availibity::availability
 ::availaible::available
 ::availalbe::available
 ::availble::available
@@ -3915,6 +3916,8 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::relinqushment::relinquishment
 ::reluctent::reluctant
 ::remaing::remaining
+::remainining::remaining
+::remainnig::remaining
 ::remeber::remember
 ::rememberance::remembrance
 ::remembrence::remembrance
@@ -4131,6 +4134,11 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::should of::should have
 ::shoudln't::shouldn't
 ::shouldent::shouldn't
+::shouldnt::shouldn't
+::shouoldnt::shouldn't
+::shouldnr::shouldn't
+::sholunt::shouldn't
+::shoulnt::shouldn't
 ::shouldnt::shouldn't
 ::sohw::show
 ::showinf::showing
