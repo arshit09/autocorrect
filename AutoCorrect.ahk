@@ -1361,6 +1361,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::clinicaly::clinically
 ::caost::coast
 ::coctail::cocktail
+::cdoe::code
 ::cognizent::cognizant
 ::co-incided::coincided
 ::coincedentally::coincidentally
@@ -1468,6 +1469,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::compleatly::completely
 ::completelyl::completely
 ::completly::completely
+::comppletey::completely
 ::compleatness::completeness
 ::completness::completeness
 ::completetion::completion
@@ -1512,6 +1514,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::conected::connected
 ::conneticut::Connecticut
 ::conection::connection
+::conneciton::connection
 ::conived::connived
 ::cannotation::connotation
 ::cannotations::connotations
@@ -1653,6 +1656,13 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::coudln't::couldn't
 ::coudn't::couldn't
 ::couldnt::couldn't
+::coudnl't::couldn't
+::coundlnt::couldn't 
+::oculdn't::couldn't
+::coundln't::couldn't
+::couldn;t::couldn't
+::couoldn't::couldn't
+::couldnt::couldn't
 ::coucil::council
 ::counries::countries
 ::countires::countries
@@ -1690,6 +1700,8 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::dardenelles::Dardanelles
 ::dael::deal
 ::debateable::debatable
+::deativate::deactivate
+::seactivate::deactivate
 ::decaffinated::decaffeinated
 ::decathalon::decathlon
 ::decieved::deceived
@@ -1799,6 +1811,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::detatched::detached
 ::detailled::detailed
 ::deatils::details
+::detials::details
 ::dectect::detect
 ::deteriate::deteriorate
 ::deteoriated::deteriorated
@@ -2222,6 +2235,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::experienc::experience
 ::expierence::experience
 ::exprience::experience
+::experiecnce::experience
 ::experianced::experienced
 ::exprienced::experienced
 ::expeiments::experiments
@@ -2346,6 +2360,8 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::fransiscan::Franciscan
 ::fransiscans::Franciscans
 ::frequentily::frequently
+::frewuently::frequently
+::frequentlky::frequently
 ::freind::friend
 ::freindly::friendly
 ::firends::friends
@@ -3216,6 +3232,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::unoperational::nonoperational
 ::nonsence::nonsense
 ::noth::north
+::normla::normal
 ::northereastern::northeastern
 ::norhern::northern
 ::northen::northern
@@ -3427,6 +3444,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::pased::passed
 ::pasengers::passengers
 ::passerbys::passersby
+::passwrod::password
 ::pasttime::pastime
 ::pastural::pastoral
 ::pattented::patented
@@ -3661,6 +3679,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::presumibly::presumably
 ::prevelant::prevalent
 ::previvous::previous
+::previsou::previous
 ::priestood::priesthood
 ::primarly::primarily
 ::primative::primitive
@@ -3669,6 +3688,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::primordal::primordial
 ::pricipal::principal
 ::priciple::principle
+::pripority::priority
 ::privte::private
 ::privelege::privilege
 ::privelige::privilege
@@ -4131,6 +4151,9 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::shortwhile::short while
 ::shorly::shortly
 ::shoudl::should
+::sohuld::should
+::hsould::should
+::sholud::should
 ::should of::should have
 ::shoudln't::shouldn't
 ::shouldent::shouldn't
@@ -4509,6 +4532,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::tahn::than
 ::thna::than
 ::thansk::thanks
+::THanks::thanks
 ::taht::that
 ::tath::that
 ::thgat::that
@@ -4577,6 +4601,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::thikn::think
 ::thiunk::think
 ::tihkn::think
+::tihnk::think
 ::thikning::thinking
 ::thikns::thinks
 ::thrid::third
@@ -4596,6 +4621,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::thru::through
 ::thoughout::throughout
 ::througout::throughout
+::tivket::ticket
 ::tiget::tiger
 ::tiem::time
 ::timne::time
@@ -4778,6 +4804,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::unwieldly::unwieldy
 ::tjpanishad::upanishad
 ::upcomming::upcoming
+::upadted::updated
 ::upgradded::upgraded
 ::useage::usage
 ::uise::use
@@ -4820,6 +4847,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::versitilaty::versatility
 ::versitlity::versatility
 ::verison::version
+::versino::version
 ::verisons::versions
 ::veyr::very
 ::vrey::very
@@ -4890,6 +4918,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::what;s::what's
 ::wehn::when
 ::whn::when
+::whenver::whenever
 ::whent he::when the
 ::wehre::where
 ::wherre::where
@@ -4948,6 +4977,7 @@ return  ; This makes the above hotstrings do nothing so that they override the i
 ::wrok::work
 ::wokring::working
 ::wroking::working
+::owrking::working
 ::workststion::workstation
 ::worls::world
 ::worstened::worsened
